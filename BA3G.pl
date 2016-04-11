@@ -4,7 +4,6 @@
 #finds a Eulerian path for a graph given properly formatted input
 
 use	strict;
-#use	warnings;
 use Data::Dumper qw(Dumper);
 
 #main graph

@@ -3,8 +3,6 @@
 #BA3E.pl
 #determines the de bruijn graph of a list of kmers using substrings and stuff
 
-#use	strict;
-#use	warnings;
 use List::MoreUtils qw(uniq);
 
 #method to determine the index in the array to deal with
